@@ -1,4 +1,4 @@
 .vscode/
 faces/
 a.out
-./resources/traindedModel.yml
+resources/traindedModel.yml
